@@ -7,6 +7,6 @@ This project aims to give basic implementation of commonly used design patterns 
 * Structural Design Pattern
 
 ## Powered By
-Contact me at jkpminon12@yahoo.com
+Contact me at [junbetterway](jkpminon12@yahoo.com)
 
 Happy coding!!!
